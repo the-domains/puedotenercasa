@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[puedotenercasa]]></title>
         <description><![CDATA[puedotenercasa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/puedotenercasa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 08:27:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 08:27:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/puedotenercasa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bienvenidos</p>]]></description>
+            <link>https://thegrid.ai/puedotenercasa/3a19dbb4-6ed0-4bba-a668-8e3922b17dad/index.html</link>
+            <guid isPermaLink="false">3a19dbb4-6ed0-4bba-a668-8e3922b17dad</guid>
+            <pubDate>Thu, 04 Feb 2016 08:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Nuestras casas</p>]]></description>
-            <link>undefined467f5216-72ce-4740-9b9d-bc796e26a17d/index.html</link>
+            <link>https://thegrid.ai/puedotenercasa/467f5216-72ce-4740-9b9d-bc796e26a17d/index.html</link>
             <guid isPermaLink="false">467f5216-72ce-4740-9b9d-bc796e26a17d</guid>
             <pubDate>Thu, 04 Feb 2016 08:26:40 GMT</pubDate>
         </item>
