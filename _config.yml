@@ -1,0 +1,28 @@
+name: puedotenercasa
+favicon: null
+layout_spectrum: 0.31175041175447404
+typography_spectrum: 0.42531898245215416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.744163530645892
+  lightness: 0.07904365938156843
+  saturation: 0.5150540943723172
+  rhythmicContrast: 0.44236361398361623
+purpose: []
